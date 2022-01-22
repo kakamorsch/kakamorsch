@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Kaio Morsch}!</strong>
+## 💜 Olá, meu nome é <strong>Kaio Morsch!</strong>
 
 
 
