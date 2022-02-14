@@ -2,7 +2,7 @@
 
 
 
-🔭 Atualmente tenho trabalhado como desenvolvedor Front-end no [@Grupo Soma](https://www.somagrupo.com.br/), atuando com [@Vtex](https://github.com/vtex) e [@NextJS](https://github.com/vercel/next.js).
+🔭 Atualmente tenho trabalhado como desenvolvedor Front-end no [@Pagar.me](https://pagar.me), atuando com [@VueJS](https://github.com/vue).
 
 💬 Me encontre no [@LinkedIn](https://linkedin.com/in/kakamorsch).
 
