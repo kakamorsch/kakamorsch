@@ -2,7 +2,7 @@
 
 
 
-🔭 Atualmente tenho trabalhado como desenvolvedor Front-end no [@Pagar.me](https://pagar.me), atuando com [@VueJS](https://github.com/vuejs).
+🔭.
 
 💬 Me encontre no [@LinkedIn](https://linkedin.com/in/kakamorsch).
 
